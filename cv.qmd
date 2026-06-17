@@ -120,9 +120,6 @@ Yiwei Wang\*, **Chuan Zhu**\*, Tianjun Feng, Lauren Xiaoyuan Lu, and Bingxin Jia
 
 **Chuan Zhu**, Tom Fangyun Tan, and Tianjun Feng.
 
-::: {.paper-links}
-[Paper PDF](<papers/Visible Interaction, Invisible Resolution Workload and Effort Allocation in Online Customer Service.pdf>)
-:::
 :::
 :::
 

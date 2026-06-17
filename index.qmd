@@ -107,9 +107,6 @@ This paper studies the deployment of agentic AI in Alibaba Taobao's customer ser
 
 Using granular customer service data from a large e-commerce platform, this paper examines how workload affects agents' allocation between customer-facing interaction and back-office problem solving. The findings show that effective service requires balancing visible communication with substantive problem-solving work.
 
-::: {.paper-links}
-[Paper PDF](<papers/Visible Interaction, Invisible Resolution Workload and Effort Allocation in Online Customer Service.pdf>)
-:::
 :::
 :::
 

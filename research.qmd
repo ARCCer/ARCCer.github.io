@@ -107,9 +107,6 @@ This paper examines how workload shapes online service agents' allocation betwee
 
 **Methods and setting:** large-scale operational data analysis; control-function approach with instrumental variables; mediation analysis; textual analysis using LDA and LLM-based measures; live-chat customer service operations.
 
-::: {.paper-links}
-[Paper PDF](papers/Visible%20Interaction,%20Invisible%20Resolution%20Workload%20and%20Effort%20Allocation%20in%20Online%20Customer%20Service.pdf)
-:::
 :::
 :::
 :::
