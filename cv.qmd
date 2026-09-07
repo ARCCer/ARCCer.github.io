@@ -40,7 +40,7 @@ keywords:
 - **ORCID:** [0009-0006-7660-3598](https://orcid.org/0009-0006-7660-3598)
 - **LinkedIn:** [Chuan Zhu](https://www.linkedin.com/in/chuan-zhu-86692a169/)
 - **SSRN:** [Author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11527448)
-- **Last updated:** 2026-5-15
+- **Last updated:** September 7, 2026
 :::
 
 ::: {.content-band}
@@ -53,6 +53,8 @@ keywords:
 School of Management, Fudan University, expected 2027.
 
 Dissertation focus: Integrating AI in Service Operations.
+
+Advisor: Professor Tianjun Feng. Co-advisor: Assistant Professor Yiwei Wang.
 :::
 
 ::: {.paper-entry}
@@ -100,11 +102,13 @@ Customer service and contact-center operations; digital platforms and online mar
 
 ::: {.paper-list}
 ::: {.paper-entry}
-<div class="paper-meta">(Job Market paper, *co-first authorship), under review at <em>Operations Research</em></div>
+<div class="paper-meta">(Job Market paper, *co-first authorship), major revision at <em>Operations Research</em></div>
 
 #### Agentic AI and Human-in-the-Loop Interventions: Field Experimental Evidence from Alibaba's Customer Service Operations
 
 Yiwei Wang\*, **Chuan Zhu**\*, Tianjun Feng, Lauren Xiaoyuan Lu, and Bingxin Jia.
+
+- **Finalist, 2026 INFORMS Service Science Best Student Paper Competition.**
 
 ::: {.paper-links}
 [SSRN author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11527448)
@@ -136,13 +140,13 @@ Yiwei Wang\*, **Chuan Zhu**\*, Tianjun Feng, Lauren Xiaoyuan Lu, and Bingxin Jia
 ::: {.paper-entry}
 ### Alibaba Group
 
-Research Scientist, Customer Operations Department, July 2022 to present. Full-time, onsite academic collaboration in Hangzhou, China.
+Research Scientist, Customer Operations Department, July 2022 to present. Full-time, Onsite, Academic Collaboration in Hangzhou, China.
 :::
 
 ::: {.paper-entry}
 ### Environmental Defense Fund Climate Corps and LONGi Green Energy
 
-Climate Corps Fellow, July 2021 to Oct. 2021. Full-time, onsite internship in Xi'an, China.
+Climate Corps Fellow, July 2021 to Oct. 2021. Full-time, Onsite, Internship in Xi'an, China.
 :::
 :::
 
@@ -158,6 +162,7 @@ Teaching Assistant for Operations Management, Data-Driven Market Analysis, Micro
 
 ### Honors, Fellowships, and Awards
 
+- Finalist, 2026 INFORMS Service Science Best Student Paper Competition.
 - Climate Corps Fellow, Environmental Defense Fund, 2021.
 - Outstanding Academic Scholarship, School of Management, Fudan University, 2019.
 

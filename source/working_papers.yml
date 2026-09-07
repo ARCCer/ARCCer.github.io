@@ -10,7 +10,7 @@ working_papers:
     author_note: "[*co-first authorship]"
 
     # Current paper status. Keep this accurate and up to date.
-    status: "[under review ]"
+    status: "[major revision]"
     target_or_current_venue: "[Operations Research]"
     Type: "[Job Market paper]"
 
@@ -35,7 +35,7 @@ working_papers:
     selected_presentations:
       - "[TODO: conference, workshop, or seminar]"
     awards_or_recognition:
-      - "[TODO: award, finalist status, or recognition]"
+      - "[Finalist, 2026 INFORMS Service Science Best Student Paper Competition]"
     public_links:
       SSRN: "[https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11527448]"
       Arxiv: "[https://arxiv.org/abs/2605.14830]"

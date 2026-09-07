@@ -44,7 +44,7 @@ keywords:
 ::: {.content-band}
 ## Bio
 
-I am a Ph.D. Candidate in Business Artificial Intelligence at the School of Management, Fudan University. My advisor is Professor Tianjun Feng. My research lies at the intersection of empirical operations management, AI-enabled service operations, and platform operations.
+I am a Ph.D. Candidate in Business Artificial Intelligence at the School of Management, Fudan University. My advisor is Professor Tianjun Feng, and my co-advisor is Assistant Professor Yiwei Wang. My research lies at the intersection of empirical operations management, AI-enabled service operations, and platform operations.
 
 I study how generative AI, AI agents, and human-AI collaboration reshape operational decisions in service operations. My work uses field experiments, causal inference, platform data, machine learning, and LLM-based measurement to examine questions such as when AI systems should act autonomously, when human intervention is valuable, and how platforms can design service processes that balance efficiency, quality, and customer experience.
 
@@ -83,11 +83,13 @@ Human-in-the-loop intervention, escalation timing, AI failure recovery, and work
 
 ::: {.paper-list}
 ::: {.paper-entry}
-<div class="paper-meta">(Job Market paper, *co-first authorship), under review at <em>Operations Research</em></div>
+<div class="paper-meta">(Job Market paper, *co-first authorship), major revision at <em>Operations Research</em></div>
 
 ### Agentic AI and Human-in-the-Loop Interventions: Field Experimental Evidence from Alibaba's Customer Service Operations
 
 Yiwei Wang\*, **Chuan Zhu**\*, Tianjun Feng, Lauren Xiaoyuan Lu, and Bingxin Jia.
+
+- **Finalist, 2026 INFORMS Service Science Best Student Paper Competition.**
 
 This paper studies the deployment of agentic AI in Alibaba Taobao's customer service operations through a randomized field experiment. The findings highlight the tradeoff between service efficiency and customer experience, and show how intervention timing, AI failure type, and post-escalation human effort shape service recovery.
 

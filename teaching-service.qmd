@@ -19,7 +19,7 @@ keywords:
 
 # Teaching & Service
 
-This page summarizes verified teaching, presentation, and honors information from the current local source files.
+My teaching experience spans operations management, market analytics, economics, and entrepreneurship.
 
 ::: {.hero-links}
 [Teaching](#teaching-experience){.link-button}
@@ -71,6 +71,7 @@ Teaching Assistant, Undergraduate, Spring 2019.
 ::: {.content-band .contact-band}
 ## Honors, Fellowships, and Awards
 
+- **Finalist, 2026 INFORMS Service Science Best Student Paper Competition**, for "Agentic AI and Human-in-the-Loop Interventions: Field Experimental Evidence from Alibaba's Customer Service Operations."
 - **Climate Corps Fellow**, Environmental Defense Fund, 2021.
 - **Outstanding Academic Scholarship**, School of Management, Fudan University, 2019.
 :::
