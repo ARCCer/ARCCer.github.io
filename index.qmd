@@ -27,6 +27,7 @@ keywords:
 ::: {.hero-links}
 [CV](cv.qmd){.link-button .primary}
 [Email](mailto:zhuc21@m.fudan.edu.cn){.link-button}
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=8fi3wsAAAAAJ){.link-button}
 [Research](research.qmd){.link-button}
 [Industry](industry.qmd){.link-button}
 [ORCID](https://orcid.org/0009-0006-7660-3598){.link-button}
@@ -44,9 +45,9 @@ keywords:
 ::: {.content-band}
 ## Bio
 
-I am a Ph.D. Candidate in Business Artificial Intelligence at the School of Management, Fudan University. My advisor is Professor Tianjun Feng, and my co-advisor is Assistant Professor Yiwei Wang. My research lies at the intersection of empirical operations management, AI-enabled service operations, and platform operations.
+I am a Ph.D. Candidate in Business Artificial Intelligence at the School of Management, Fudan University, advised by Professor Tianjun Feng. My research focuses on human-AI work allocation and decision authority in service operations.
 
-I study how generative AI, AI agents, and human-AI collaboration reshape operational decisions in service operations. My work uses field experiments, causal inference, platform data, machine learning, and LLM-based measurement to examine questions such as when AI systems should act autonomously, when human intervention is valuable, and how platforms can design service processes that balance efficiency, quality, and customer experience.
+I study how generative AI, AI agents, and human-AI collaboration reshape work in service systems and digital platforms. I use field experiments, causal inference, machine learning, and LLM-based text analysis to examine how operational decisions and the allocation of work between humans and AI affect service performance.
 
 My current research is also grounded in industry collaboration, especially in customer service and platform contexts where AI systems interact with workers, customers, and organizational decision rules.
 
@@ -55,7 +56,7 @@ My current research is also grounded in industry collaboration, especially in cu
 ::: {.content-band}
 ## Research Focus
 
-My current research focuses on AI-enabled service operations, human-in-the-loop service design, AI agents in platform operations, workforce management, service recovery, and the allocation of front-office and back-office effort in online service settings.
+My research focuses on human-AI work design and decision authority, AI-enabled service systems and digital platforms, and the allocation of front-office communication and back-office problem-solving effort in service operations.
 
 ::: {.stream-grid}
 ::: {.stream-card}
@@ -90,8 +91,9 @@ Human-in-the-loop intervention, escalation timing, AI failure recovery, and work
 Yiwei Wang\*, **Chuan Zhu**\*, Tianjun Feng, Lauren Xiaoyuan Lu, and Bingxin Jia.
 
 - **Finalist, 2026 INFORMS Service Science Best Student Paper Competition.**
+- **Best Paper Nominee, CIST 2026.**
 
-This paper studies the deployment of agentic AI in Alibaba Taobao's customer service operations through a randomized field experiment. The findings highlight the tradeoff between service efficiency and customer experience, and show how intervention timing, AI failure type, and post-escalation human effort shape service recovery.
+This paper uses a randomized field experiment involving 647 workers and approximately 681,000 customer-service chats at Alibaba Taobao. Agentic AI reduces average chat duration but may lower customer ratings. Descriptive post-escalation analyses show more favorable outcomes after technical than emotional escalations, with differences in intervention timing and human effort.
 
 ::: {.paper-links}
 [arXiv abstract](https://arxiv.org/abs/2605.14830)
@@ -103,11 +105,11 @@ This paper studies the deployment of agentic AI in Alibaba Taobao's customer ser
 ::: {.paper-entry}
 <div class="paper-meta">Working paper</div>
 
-### Managing Front-office and Back-office Effort Allocation: Unpacking the Effects of Workload on Service Performance
+### Talk the Talk and Walk the Walk: An Empirical Study of Front-Office Communication and Back-Office Problem Solving Under Workload Pressure
 
 **Chuan Zhu**, Tom Fangyun Tan, and Tianjun Feng.
 
-Using granular customer service data from a large e-commerce platform, this paper examines how workload affects agents' allocation between customer-facing interaction and back-office problem solving. The findings show that effective service requires balancing visible communication with substantive problem-solving work.
+Using 3,965,028 live-chat sessions handled by 7,004 agents, this paper identifies within-session effort allocation as a mechanism linking workload to service performance. Workload has a U-shaped relationship with the share of effort devoted to customer communication. Counterfactual estimates suggest that rebalancing communication and back-office problem solving can shorten sessions, improve customer ratings, and reduce retrials without adding capacity.
 
 :::
 :::
@@ -122,11 +124,11 @@ Using granular customer service data from a large e-commerce platform, this pape
 ::: {.collab-item}
 ### Alibaba Group
 
-Research Scientist, Customer Operations Department, July 2022 to present. This full-time, onsite academic collaboration focuses on human-AI hybrid customer service system design, causal-inference-based workforce management, and data-driven customer service operations.
+Research Scientist, Customer Operations Department, July 2022 to present. This academic research collaboration focuses on human-AI service system design, workforce management, and AI-enabled customer operations, combining operational data, field experimentation, and causal inference.
 :::
 
 ::: {.collab-item}
-### Environmental Defense Fund Climate Corps and LONGi Green Energy
+### Environmental Defense Fund and LONGi Green Energy
 
 Climate Corps Fellow, July 2021 to Oct. 2021. This work examined supplier-side carbon-management challenges and green supply-chain opportunities.
 :::
@@ -140,13 +142,15 @@ Climate Corps Fellow, July 2021 to Oct. 2021. This work examined supplier-side c
 
 I have served as a teaching assistant for Operations Management, Data-Driven Market Analysis, Microeconomics, and Theories and Practices of Entrepreneurship across MBA, master's, and undergraduate courses.
 
+My teaching interests are Operations Management, Service Operations, Business Analytics, and AI in Business.
+
 [View teaching and service](teaching-service.qmd){.link-button}
 :::
 
 ::: {.content-band .contact-band}
 ## Contact
 
-For research, collaboration, or teaching-related inquiries, please reach me by [email](mailto:zhuc21@m.fudan.edu.cn). You can also find my academic profiles on [ORCID](https://orcid.org/0009-0006-7660-3598), [LinkedIn](https://www.linkedin.com/in/chuan-zhu-86692a169/), and my [SSRN author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11527448).
+For research, collaboration, or teaching-related inquiries, please reach me by [email](mailto:zhuc21@m.fudan.edu.cn). You can also find my academic profiles on [Google Scholar](https://scholar.google.com/citations?hl=en&user=8fi3wsAAAAAJ), [ORCID](https://orcid.org/0009-0006-7660-3598), [LinkedIn](https://www.linkedin.com/in/chuan-zhu-86692a169/), and my [SSRN author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11527448).
 
 :::
 

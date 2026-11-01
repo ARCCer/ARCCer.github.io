@@ -22,9 +22,9 @@ keywords:
 
 # Research Agenda
 
-My research examines how AI, GenAI, and AI agents reshape service and platform operations. I study AI-enabled operational systems as settings where algorithms, workers, customers, and platforms jointly determine service quality, speed, effort allocation, and governance.
+My research examines human-AI work allocation and decision authority in service operations. I study how AI, GenAI, and AI agents reshape work in service systems and digital platforms, with a focus on human-AI collaboration and service performance.
 
-The agenda is empirical and field-grounded. I use field experiments, platform data, causal inference, machine learning, and LLM-based measurement to study how firms should design, evaluate, and govern AI-enabled operations.
+The agenda is empirical and field-grounded. I use field experiments, platform data, causal inference, machine learning, and LLM-based text analysis to study how firms should design, evaluate, and govern AI-enabled operations.
 
 ::: {.hero-links}
 [Research Streams](#research-streams){.link-button}
@@ -57,13 +57,13 @@ My goal is to develop evidence that is useful for both academic theory and manag
 ::: {.stream-card}
 ### GenAI and Service Operations
 
-I study how GenAI changes service processes, including customer service speed, service quality, escalation, and recovery. The current empirical setting supported by my materials is customer service and contact-center operations.
+I study how GenAI changes service processes, including customer service speed, quality, escalation, and recovery, using customer-service operations as an empirical setting.
 :::
 
 ::: {.stream-card}
 ### AI Agents and Platform Operations
 
-I examine how agentic AI systems operate inside platform-mediated service environments. Current materials support this stream through Alibaba Taobao customer service operations and online service platforms.
+I examine how agentic AI systems operate inside platform-mediated service environments, including Alibaba Taobao customer service operations.
 :::
 
 ::: {.stream-card}
@@ -86,8 +86,9 @@ I study human-in-the-loop intervention, AI failure recovery, intervention timing
 Yiwei Wang\*, **Chuan Zhu**\*, Tianjun Feng, Lauren Xiaoyuan Lu, and Bingxin Jia.
 
 - **Finalist, 2026 INFORMS Service Science Best Student Paper Competition.**
+- **Best Paper Nominee, CIST 2026.**
 
-This paper studies the deployment of agentic AI in Alibaba Taobao's customer service operations, where AI handles AI-eligible customer chats under human-in-the-loop supervision. The study uses a randomized field experiment and large-scale operational data to examine service speed, customer experience, AI failure recovery, intervention timing, and post-escalation human effort.
+This paper uses a randomized field experiment involving 647 workers and approximately 681,000 customer-service chats at Alibaba Taobao. It finds that agentic AI reduces average chat duration but may lower customer ratings. Descriptive post-escalation analyses show more favorable outcomes after technical than emotional escalations, with differences in intervention timing and human effort.
 
 **Methods and setting:** randomized field experiment; causal inference using large-scale customer service operational data; LLM annotation; Alibaba Taobao customer service operations.
 
@@ -101,13 +102,13 @@ This paper studies the deployment of agentic AI in Alibaba Taobao's customer ser
 ::: {.paper-entry}
 <div class="paper-meta">Working paper</div>
 
-### Managing Front-office and Back-office Effort Allocation: Unpacking the Effects of Workload on Service Performance
+### Talk the Talk and Walk the Walk: An Empirical Study of Front-Office Communication and Back-Office Problem Solving Under Workload Pressure
 
 **Chuan Zhu**, Tom Fangyun Tan, and Tianjun Feng.
 
-This paper examines how workload shapes online service agents' allocation between customer-facing interaction and back-office problem solving. The empirical setting provided in the source materials is live-chat customer service operations at a large Chinese e-commerce platform.
+This paper examines how workload changes agents' within-session allocation between front-office communication and back-office problem solving at a large Chinese e-commerce platform. The analyzed sample contains 3,965,028 sessions handled by 7,004 agents. Workload has a U-shaped relationship with the share of effort devoted to communication, and this allocation helps explain service speed, customer ratings, and retrials. Textual analyses distinguish the benefits of effective interaction from the crowding out of substantive problem solving. Counterfactual estimates suggest that rebalancing effort can improve all three outcomes without additional capacity.
 
-**Methods and setting:** large-scale operational data analysis; control-function approach with instrumental variables; mediation analysis; textual analysis using LDA and LLM-based measures; live-chat customer service operations.
+**Methods and setting:** service records, clickstream data, and chat transcripts; instrumental-variable control-function estimation; nonlinear mediation and counterfactual analysis; LDA-based problem-centeredness and LLM-based interaction-quality measures; after-sales live-chat customer service.
 
 :::
 :::
@@ -134,8 +135,16 @@ This project studies how service workload affects the allocation of visible cust
 ::: {.content-band .contact-band}
 ## Selected Presentations
 
-- **Agentic AI and Human-in-the-Loop Interventions: Field Experimental Evidence from Alibaba's Customer Service Operations.** POMS Annual Meeting, 2026.
-- **Managing Front-office and Back-office Effort Allocation: Unpacking the Effects of Workload on Service Performance.** POMS-HK, 2026.
+### Agentic AI and Human-in-the-Loop Interventions: Field Experimental Evidence from Alibaba's Customer Service Operations
+
+- **INFORMS Annual Meeting, 2026:** Service Science Best Student Paper Competition Finalist Session. Scheduled for November 2, 2026, 2:45-4:00 PM (San Francisco local time), Moscone South 20, Hall E.
+- **POMS Annual Meeting, 2026:** Accepted for presentation.
+- **CIST, 2026:** Accepted for presentation.
+- **WISE, 2026:** Accepted for presentation.
+
+### Talk the Talk and Walk the Walk: An Empirical Study of Front-Office Communication and Back-Office Problem Solving Under Workload Pressure
+
+- **POMS-HK, 2026.**
 :::
 
 :::

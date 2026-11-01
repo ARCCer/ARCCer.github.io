@@ -24,7 +24,7 @@ My industry experience supports my empirical research in AI-enabled service oper
 
 ::: {.hero-links}
 [Alibaba Group](#alibaba-group){.link-button}
-[EDF Climate Corps & LONGi](#environmental-defense-fund-climate-corps-and-longi-green-energy){.link-button}
+[EDF & LONGi](#environmental-defense-fund-and-longi-green-energy){.link-button}
 [Research](research.qmd){.link-button}
 :::
 :::
@@ -36,25 +36,23 @@ My industry experience supports my empirical research in AI-enabled service oper
 ::: {.paper-entry}
 ### Alibaba Group
 
-<div class="paper-meta">Customer Operations Department | Research Scientist | Full-time, Onsite, Academic Collaboration | Hangzhou, China | July 2022 - Present</div>
+<div class="paper-meta">Customer Operations Department | Research Scientist | Academic Research Collaboration | Hangzhou, China | July 2022 - Present</div>
 
-- Collaborate on human-AI hybrid customer service system design.
-- Develop algorithms with causal inference to better manage worker supply.
-- Design data-driven strategies to optimize customer service operations.
-- Provide academic consulting to support Alibaba's operational innovation initiatives.
+- Conduct embedded research on human-AI service system design, workforce management, and AI-enabled customer operations.
+- Collaborate with operational teams to design and evaluate field interventions using large-scale operational data, field experimentation, and causal inference.
+- Translate operational challenges into research questions and feasible empirical designs.
 
 **Research relevance:** This collaboration supports my research on AI-enabled customer service operations, human-AI collaboration, workforce management, and platform operations.
 
 :::
 
 ::: {.paper-entry}
-### Environmental Defense Fund Climate Corps and LONGi Green Energy
+### Environmental Defense Fund and LONGi Green Energy
 
-<div class="paper-meta">Climate Corps Fellow | Full-time, Onsite, Internship | Xi'an, China | July 2021 - Oct. 2021</div>
+<div class="paper-meta">Climate Corps Fellow | Xi'an, China | July 2021 - Oct. 2021</div>
 
-- Analyzed supplier-side carbon-management challenges and green supply-chain opportunities.
-- Designed supplier survey instruments and benchmarked leading firms' decarbonization practices.
-- Developed a green supplier empowerment roadmap for training, renewable-energy adoption, monitoring, and incentives.
+- Analyzed supplier carbon-management challenges and benchmarked green supply-chain practices.
+- Developed a supplier empowerment roadmap covering training, renewable-energy adoption, monitoring, and incentives.
 
 **Research relevance:** This experience is related to operational problem diagnosis, supplier-side analysis, benchmarking, and implementation-oriented sustainability work.
 

@@ -10,8 +10,12 @@ project:
   resources:
     - "robots.txt"
     - "assets/Figures/1.jpg"
-    - "cv/Chuan_Zhu_CV_updated.pdf"
+    - "cv/Chuan_CV.pdf"
     - "papers/Agentic AI and Human-in-the-Loop Interventions_2026-0511_corrected-original.pdf"
+    - "!schools/**"
+    - "!output/**"
+    - "!tmp/**"
+    - "!.planning/**"
 
 lang: en
 author: "Chuan (River) Zhu"

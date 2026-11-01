@@ -18,9 +18,9 @@ education:
 
     # Dissertation fields should be completed only when ready to share.
     dissertation:
-      focus: "[Integrating AI in Service Operations]"
-      committee:
-        - name: "[Tianjun Feng]"
+      focus: "Human-AI work allocation and decision authority in service operations"
+      advisor:
+        name: "[Tianjun Feng]"
 
   - degree: "[B.S in Logistics Engineering]"
     institution: "[Northeast Forestry University]"

@@ -22,10 +22,10 @@ profile:
   # Public contact and profile links.
   contact:
     email: "[zhuc21@m.fudan.edu.cn]"
-    website: "[TODO: personal website URL]"
-    google_scholar: "[TODO: Google Scholar URL]"
+    website: "https://chuanzhu.site/"
+    google_scholar: "https://scholar.google.com/citations?hl=en&user=8fi3wsAAAAAJ"
     linkedin: "[https://www.linkedin.com/in/chuan-zhu-86692a169/]"
     orcid: "[https://orcid.org/0009-0006-7660-3598]"
 
   # Version date for keeping materials synchronized.
-  last_updated: "[2026-5-15]"
+  last_updated: "2026-11-01"

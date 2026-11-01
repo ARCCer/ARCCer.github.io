@@ -6,7 +6,7 @@ working_papers:
 
     # Author list in intended citation order.
     authors:
-      - name: "[Yiwei Wang*, \bold{Chuan Zhu}*, Tianjun Feng, Lauren Xiaoyuan Lu, Bingxin Jia]"
+      - name: "[Yiwei Wang*, Chuan Zhu*, Tianjun Feng, Lauren Xiaoyuan Lu, Bingxin Jia]"
     author_note: "[*co-first authorship]"
 
     # Current paper status. Keep this accurate and up to date.
@@ -25,41 +25,61 @@ working_papers:
       - "How do intervention timing and post-escalation human effort influence service recovery in human-AI hybrid service systems?"
       - "How should firms design the operational process and division of labor between agentic AI and human workers?"
     setting_or_context: "[Alibaba Taobao's customer service operations, where agentic AI autonomously handles AI-eligible customer chats under human-in-the-loop supervision while human workers continue to manage AI-ineligible chats]"
+    sample:
+      workers: 647
+      customer_service_chats_approximate: 681000
     methods:
       - "[Randomized field experiment]"
       - "[Causal inference using large-scale customer service operational data]"
-      - "[Mechanism analysis of post-escalation human effort with LLM Annotation]"
-    main_contribution: "[The paper provides field-experimental evidence on how agentic AI reshapes customer service operations and shows that the effectiveness of human-in-the-loop intervention depends critically on AI failure type, intervention timing, and workers' post-escalation effort]"
-    abstract_short: "[This paper studies the deployment of agentic AI in Alibaba's customer service operations through a randomized field experiment. The findings show that agentic AI reduces average chat duration but may lower customer ratings for AI-eligible chats, highlighting a tradeoff between service efficiency and customer experience. Human-in-the-loop intervention is effective for technical escalations but less effective for emotional escalations, partly because workers exert lower post-escalation effort in emotionally charged cases. The paper offers implications for designing human-AI hybrid service systems, especially around escalation rules, intervention timing, and the division of labor between AI and human workers]"
+      - "Descriptive post-escalation analyses of intervention timing and human effort"
+    main_contribution: "Provides field-experimental evidence that agentic AI reduces average chat duration but may lower customer ratings, alongside descriptive post-escalation evidence of more favorable outcomes after technical than emotional escalations."
+    abstract_short: "This paper uses a randomized field experiment involving 647 workers and approximately 681,000 customer-service chats at Alibaba Taobao. It finds that agentic AI reduces average chat duration but may lower customer ratings. Descriptive post-escalation analyses show more favorable outcomes after technical than emotional escalations, with differences in intervention timing and human effort."
     # Signals for CV and job-market materials.
     selected_presentations:
-      - "[TODO: conference, workshop, or seminar]"
+      - "INFORMS Annual Meeting, 2026: Service Science Best Student Paper Competition Finalist Session; scheduled for November 2"
+      - "POMS Annual Meeting, 2026: Accepted for presentation"
+      - "CIST, 2026: Accepted for presentation"
+      - "WISE, 2026: Accepted for presentation"
     awards_or_recognition:
       - "[Finalist, 2026 INFORMS Service Science Best Student Paper Competition]"
+      - "Best Paper Nominee, CIST 2026"
     public_links:
       SSRN: "[https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11527448]"
       Arxiv: "[https://arxiv.org/abs/2605.14830]"
       slides: "[TODO: slides URL or leave blank]"
-  - title: "Managing Front-office and Back-office Effort Allocation: Unpacking the Effects of Workload on Service Performance"
+  # Updated from the supplied September 13, 2026 manuscript.
+  - title: "Talk the Talk and Walk the Walk: An Empirical Study of Front-Office Communication and Back-Office Problem Solving Under Workload Pressure"
+    previous_title: "Managing Front-office and Back-office Effort Allocation: Unpacking the Effects of Workload on Service Performance"
+    manuscript_date: "2026-09-13"
     authors:
       - name: "[Chuan Zhu, Tom Fangyun Tan, Tianjun Feng]"
     status: "Working paper"
     target_or_current_venue: "[TODO]"
 
     research_question:
-      primary_research_question: "How does workload shape online service agents' allocation between customer-facing interaction and back-office problem solving, and how does this allocation affect service performance?"
+      primary_research_question: "How does workload change agents' within-session allocation between front-office communication and back-office problem solving, how does this allocation mediate service performance, and what mechanisms explain these relationships?"
 
-    setting_or_context: "Live-chat customer service operations at a large Chinese e-commerce platform."
+    setting_or_context: "After-sales live-chat customer service at a large Chinese e-commerce platform, combining service records, agent clickstream activities, and customer-agent transcripts from October 25 to November 30, 2023."
+    sample:
+      full_sessions: 4683611
+      analyzed_sessions: 3965028
+      agents: 7004
+      notes: "The main sample excludes sessions with fewer than three interaction rounds; customer-rating models use the rated-session subsample."
 
     methods:
-      - "Large-scale operational data analysis"
-      - "Control-function approach with instrumental variables"
-      - "Mediation analysis"
-      - "Textual analysis using LDA and LLM-based measures"
+      - "Session-level fixed-effects models using service records, clickstream data, and chat transcripts"
+      - "Control-function estimation with instrumental variables for workload and effort allocation"
+      - "Nonlinear mediation analysis and counterfactual analysis"
+      - "LDA-based measures of problem-centeredness and LLM-based measures of interaction quality"
 
-    main_contribution: "The paper shows that service performance depends on maintaining an intermediate balance between front-office interaction and back-office problem solving."
+    main_contribution: "Identifies within-session effort composition as a behavioral mechanism linking workload to service performance, shows that the front-office/back-office boundary changes with workload, and identifies effort rebalancing as an operational lever within existing staffing capacity."
 
-    abstract_short: "Using granular customer service data from a large e-commerce platform, this paper examines how workload affects agents' within-session effort allocation. Workload has a U-shaped effect on the front ratio, and the front ratio mediates the effect of workload on session duration, customer ratings, and retrials. The findings show that neither too little nor too much customer-facing interaction is optimal; effective service requires balancing visible communication with substantive problem-solving work."
+    abstract_short: "Using 3,965,028 analyzed sessions handled by 7,004 agents, this paper examines how workload changes the share of active service effort devoted to front-office communication. Workload has a U-shaped relationship with this front ratio, with a turning point near 3.21 concurrent sessions. The effort-allocation pathway accounts for 14.19%, 15.92%, and 24.78% of workload's combined absolute marginal effects on session duration, customer ratings, and retrials, respectively. Textual analyses distinguish the interaction-enabling benefits of moderate front-office effort from the crowding out of substantive problem solving at excessive levels. Counterfactual estimates suggest that raising the front ratio from 0.47 to approximately 0.53 could reduce duration by 2.52%, increase ratings by 2.26%, and reduce retrials by 0.77% without additional capacity."
+
+    cv_summary:
+      - "Examines how workload shifts effort between customer communication and back-office problem solving, using 3,965,028 live-chat sessions handled by 7,004 agents at a large Chinese e-commerce platform."
+      - "Combines clickstream and transcript data with instrumental-variable control-function estimation, nonlinear mediation analysis, and LDA- and LLM-based textual measures."
+      - "Finds a U-shaped relationship between workload and the share of effort devoted to communication; counterfactual estimates suggest that rebalancing effort can shorten sessions, improve customer ratings, and reduce retrials without adding capacity."
 
     selected_presentations: []
     awards_or_recognition: []

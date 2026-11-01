@@ -21,7 +21,7 @@ keywords:
 # CV
 
 ::: {.hero-links}
-[Download CV PDF](cv/Chuan_Zhu_CV_updated.pdf){.link-button .primary}
+[Download CV PDF](cv/Chuan_CV.pdf){.link-button .primary}
 [Research](research.qmd){.link-button}
 [Industry](industry.qmd){.link-button}
 [Teaching & Service](teaching-service.qmd){.link-button}
@@ -37,10 +37,11 @@ keywords:
 - **Affiliation:** School of Management, Fudan University
 - **Location:** Shanghai, China
 - **Email:** [zhuc21@m.fudan.edu.cn](mailto:zhuc21@m.fudan.edu.cn)
+- **Google Scholar:** [Profile](https://scholar.google.com/citations?hl=en&user=8fi3wsAAAAAJ)
 - **ORCID:** [0009-0006-7660-3598](https://orcid.org/0009-0006-7660-3598)
 - **LinkedIn:** [Chuan Zhu](https://www.linkedin.com/in/chuan-zhu-86692a169/)
 - **SSRN:** [Author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11527448)
-- **Last updated:** September 7, 2026
+- **Last updated:** November 1, 2026
 :::
 
 ::: {.content-band}
@@ -52,9 +53,9 @@ keywords:
 
 School of Management, Fudan University, expected 2027.
 
-Dissertation focus: Integrating AI in Service Operations.
+Research focus: Human-AI work allocation and decision authority in service operations.
 
-Advisor: Professor Tianjun Feng. Co-advisor: Assistant Professor Yiwei Wang.
+Advisor: Professor Tianjun Feng.
 :::
 
 ::: {.paper-entry}
@@ -78,13 +79,13 @@ Service operations; platform operations; empirical operations management.
 ::: {.stream-card}
 ### Topics
 
-AI-enabled service operations; human-AI collaboration; human-in-the-loop systems; GenAI and AI agents in platform operations; workforce management.
+Human-AI work design and decision authority; AI-enabled service systems and digital platforms; service operations; human-AI collaboration.
 :::
 
 ::: {.stream-card}
 ### Methods
 
-Field experiments; causal inference; machine learning; LLM-based measurement.
+Field experiments; causal inference; machine learning; LLM-based text analysis.
 :::
 
 ::: {.stream-card}
@@ -109,6 +110,7 @@ Customer service and contact-center operations; digital platforms and online mar
 Yiwei Wang\*, **Chuan Zhu**\*, Tianjun Feng, Lauren Xiaoyuan Lu, and Bingxin Jia.
 
 - **Finalist, 2026 INFORMS Service Science Best Student Paper Competition.**
+- **Best Paper Nominee, CIST 2026.**
 
 ::: {.paper-links}
 [SSRN author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11527448)
@@ -120,7 +122,7 @@ Yiwei Wang\*, **Chuan Zhu**\*, Tianjun Feng, Lauren Xiaoyuan Lu, and Bingxin Jia
 ::: {.paper-entry}
 <div class="paper-meta">Working paper</div>
 
-#### Managing Front-office and Back-office Effort Allocation: Unpacking the Effects of Workload on Service Performance
+#### Talk the Talk and Walk the Walk: An Empirical Study of Front-Office Communication and Back-Office Problem Solving Under Workload Pressure
 
 **Chuan Zhu**, Tom Fangyun Tan, and Tianjun Feng.
 
@@ -129,8 +131,16 @@ Yiwei Wang\*, **Chuan Zhu**\*, Tianjun Feng, Lauren Xiaoyuan Lu, and Bingxin Jia
 
 ### Conference Presentations
 
-- **Agentic AI and Human-in-the-Loop Interventions: Field Experimental Evidence from Alibaba's Customer Service Operations.** POMS Annual Meeting, 2026.
-- **Managing Front-office and Back-office Effort Allocation: Unpacking the Effects of Workload on Service Performance.** POMS-HK, 2026.
+#### Agentic AI and Human-in-the-Loop Interventions: Field Experimental Evidence from Alibaba's Customer Service Operations
+
+- **INFORMS Annual Meeting, 2026:** Service Science Best Student Paper Competition Finalist Session. Scheduled for November 2, 2026, 2:45-4:00 PM (San Francisco local time), Moscone South 20, Hall E.
+- **POMS Annual Meeting, 2026:** Accepted for presentation.
+- **CIST, 2026:** Accepted for presentation.
+- **WISE, 2026:** Accepted for presentation.
+
+#### Talk the Talk and Walk the Walk: An Empirical Study of Front-Office Communication and Back-Office Problem Solving Under Workload Pressure
+
+- **POMS-HK, 2026.**
 :::
 
 ::: {.content-band}
@@ -140,13 +150,13 @@ Yiwei Wang\*, **Chuan Zhu**\*, Tianjun Feng, Lauren Xiaoyuan Lu, and Bingxin Jia
 ::: {.paper-entry}
 ### Alibaba Group
 
-Research Scientist, Customer Operations Department, July 2022 to present. Full-time, Onsite, Academic Collaboration in Hangzhou, China.
+Research Scientist, Customer Operations Department, July 2022 to present. Academic Research Collaboration in Hangzhou, China.
 :::
 
 ::: {.paper-entry}
-### Environmental Defense Fund Climate Corps and LONGi Green Energy
+### Environmental Defense Fund and LONGi Green Energy
 
-Climate Corps Fellow, July 2021 to Oct. 2021. Full-time, Onsite, Internship in Xi'an, China.
+Climate Corps Fellow, July 2021 to Oct. 2021, Xi'an, China.
 :::
 :::
 
@@ -160,17 +170,20 @@ Climate Corps Fellow, July 2021 to Oct. 2021. Full-time, Onsite, Internship in X
 
 Teaching Assistant for Operations Management, Data-Driven Market Analysis, Microeconomics, and Theories and Practices of Entrepreneurship.
 
+Teaching interests: Operations Management; Service Operations; Business Analytics; AI in Business.
+
 ### Honors, Fellowships, and Awards
 
+- Best Paper Nominee, CIST 2026.
 - Finalist, 2026 INFORMS Service Science Best Student Paper Competition.
 - Climate Corps Fellow, Environmental Defense Fund, 2021.
 - Outstanding Academic Scholarship, School of Management, Fudan University, 2019.
 
 ### Skills
 
-- **GenAI / LLM:** Retrieval-Augmented Generation (RAG), Agentic AI, LLM Fine-Tuning, Data Annotation and Evaluation.
+- **AI / ML:** Machine learning; LLM-based text analysis and evaluation; NLP; RAG; model adaptation.
 - **Programming:** Python, R, Stata, SQL.
-- **Software:** MATLAB, LaTeX.
+- **Optimization / Tools:** MATLAB; Gurobi; LaTeX.
 
 [View teaching and service](teaching-service.qmd){.link-button}
 :::

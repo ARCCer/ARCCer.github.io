@@ -16,9 +16,10 @@ teaching:
       student_level: "[Undergraduate]"
 
 teaching_interests:
-  - "[TODO: operations management course area]"
-  - "[TODO: information systems / analytics course area]"
-  - "[TODO: AI, platforms, or service operations course area]"
+  - "Operations Management"
+  - "Service Operations"
+  - "Business Analytics"
+  - "AI in Business"
 
 training:
   - title: "[TODO: teaching certificate, workshop, or training]"
