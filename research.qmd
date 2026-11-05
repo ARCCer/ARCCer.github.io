@@ -85,7 +85,7 @@ I study human-in-the-loop intervention, AI failure recovery, intervention timing
 
 Yiwei Wang\*, **Chuan Zhu**\*, Tianjun Feng, Lauren Xiaoyuan Lu, and Bingxin Jia.
 
-- **Finalist, 2026 INFORMS Service Science Best Student Paper Competition.**
+- **Third Prize, 2026 INFORMS Service Science Best Student Paper Competition.**
 - **Best Paper Nominee, CIST 2026.**
 
 This paper uses a randomized field experiment involving 647 workers and approximately 681,000 customer-service chats at Alibaba Taobao. It finds that agentic AI reduces average chat duration but may lower customer ratings. Descriptive post-escalation analyses show more favorable outcomes after technical than emotional escalations, with differences in intervention timing and human effort.

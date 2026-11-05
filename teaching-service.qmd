@@ -82,7 +82,7 @@ Teaching Assistant, Undergraduate, Spring 2019.
 ## Honors, Fellowships, and Awards
 
 - **Best Paper Nominee, CIST 2026**, for "Agentic AI and Human-in-the-Loop Interventions: Field Experimental Evidence from Alibaba's Customer Service Operations."
-- **Finalist, 2026 INFORMS Service Science Best Student Paper Competition**, for "Agentic AI and Human-in-the-Loop Interventions: Field Experimental Evidence from Alibaba's Customer Service Operations."
+- **Third Prize, 2026 INFORMS Service Science Best Student Paper Competition**, for "Agentic AI and Human-in-the-Loop Interventions: Field Experimental Evidence from Alibaba's Customer Service Operations."
 - **Climate Corps Fellow**, Environmental Defense Fund, 2021.
 - **Outstanding Academic Scholarship**, School of Management, Fudan University, 2019.
 :::
